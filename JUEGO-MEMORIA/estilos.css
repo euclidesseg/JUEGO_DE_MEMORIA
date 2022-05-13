@@ -1,7 +1,7 @@
 .tablero{
+    background-color: blue;
     width: 600px;
     width: 800px;
-    background-color: antiquewhite;
     margin:0 auto;
     display: flex;
     flex-wrap:wrap ;
